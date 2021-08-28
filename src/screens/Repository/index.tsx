@@ -53,7 +53,7 @@ export function Repository() {
 
             <Description numberOfLines={2}>
               {repository.description}
-            }</Description>
+            </Description>
           </TextGroup>
         </RepoInfo>
 
